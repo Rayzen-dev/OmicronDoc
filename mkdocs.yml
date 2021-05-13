@@ -1,0 +1,13 @@
+site_name: Omicron Documentation
+nav:
+    - Home: 'index.md'
+    - Getting started: 'getting-started.md'
+    - Style:
+        - 'Button': 'style/button.md'
+        - 'Grid': 'style/grid.md'
+    - 'JavaScript':
+        - 'Tabs': 'javascript/tabs.md'
+        - 'Modal': 'javascript/modal.md'
+theme:
+    name: readthedocs
+    highlightjs: true

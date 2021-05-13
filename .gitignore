@@ -1,0 +1,9 @@
+#   JetBrains
+.idea
+.idea/*
+#   JetBrains
+
+#   Mkdocs build
+site
+site/*
+#   Mkdocs build
