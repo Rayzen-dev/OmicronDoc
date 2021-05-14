@@ -3,6 +3,7 @@ nav:
     - Home: 'index.md'
     - Getting started: 'getting-started.md'
     - Style:
+        - 'Alert': 'style/alert.md'
         - 'Button': 'style/button.md'
         - 'Grid': 'style/grid.md'
     - 'JavaScript':

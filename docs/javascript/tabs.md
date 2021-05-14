@@ -45,8 +45,10 @@ Omicron.AutoInit();
 
 // or if you want load Tabs only.
 
-let instances = Omicron.Tabs.init();
+let instances = Omicron.Tabs.init(options);
 ```
+
+In the `instances` variable, we can find all tabs Omicron that created for you. 
 
 ### Events
 On this component, we can trigger an event to simulate a click on tab link like this exemple:

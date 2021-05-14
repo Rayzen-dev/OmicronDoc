@@ -16,3 +16,10 @@ Button came with beautiful colors
 <button class="btn btn-danger">...</button>
 <button class="btn btn-warning">...</button>
 ```
+
+### Sizing
+```html
+<button class="btn btn-sm">...</button>
+<button class="btn">...</button>
+<button class="btn btn-lg">...</button>
+```
